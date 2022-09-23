@@ -40,6 +40,28 @@
   
 
   
+      ,"page3": {
+          "title": "2. Multi-file",
+          "content": ".",
+          "url": "https://gabrielcardoso21.github.io/ai-gen-art-classifier-site/_pages/multi_file.html",
+          "relUrl": "/_pages/multi_file.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page4": {
+          "title": "3. Parallel",
+          "content": ". Thanks to Loreto Parisi for assistance with this implementation. .",
+          "url": "https://gabrielcardoso21.github.io/ai-gen-art-classifier-site/_pages/parallel_files.html",
+          "relUrl": "/_pages/parallel_files.html",
+          "date": ""
+      }
+      
+  
+
+  
   
 
   
@@ -48,7 +70,7 @@
   
 
   
-      ,"page6": {
+      ,"page8": {
           "title": "1. Single file",
           "content": ".",
           "url": "https://gabrielcardoso21.github.io/ai-gen-art-classifier-site/_pages/single_file.html",
@@ -70,7 +92,7 @@
   
 
   
-      ,"page11": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://gabrielcardoso21.github.io/ai-gen-art-classifier-site/robots.txt",
