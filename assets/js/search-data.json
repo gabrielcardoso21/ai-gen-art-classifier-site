@@ -48,6 +48,17 @@
   
 
   
+      ,"page6": {
+          "title": "1. Single file",
+          "content": ".",
+          "url": "https://gabrielcardoso21.github.io/ai-gen-art-classifier-site/_pages/single_file.html",
+          "relUrl": "/_pages/single_file.html",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -59,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://gabrielcardoso21.github.io/ai-gen-art-classifier-site/robots.txt",
